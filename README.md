@@ -1,7 +1,7 @@
-# List_View
+
 ## Ex.No:7 Develop an android application to display the place name with image using list view in android studio.
 ## AIM:
-To create and develop the application to display the place name with image using list view in android studio
+To create and develop the application to display the place name with image using list view in android studio.
 
 ## EQUIPMENTS REQUIRED:
 Android Studio(Latest Version)
